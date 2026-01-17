@@ -1,9 +1,9 @@
 {
-  "name":"CHUGA-XMD",
-  "description":"chugastan",
+  "name":"ARYAN-TECH BOT",
+  "description":"ARYAN WA BOT",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/ety154.jpg",
-  "repository":"https://github.com/chugastan/CHUGA-XMD-",
+  "logo":"https://files.catbox.moe/ti9k2f.jpeg",
+  "repository":"https://github.com/ARYAN/ARYAN WA BOT-",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -32,17 +32,17 @@
       "required":true
     }
     ,
-    "BOT_NAME" : {
+    "BOT_NAME ARYAN" : {al
        
       "description":"put A name for your bot",
-      "value":"CHUGA XMD",
+      "value":"ARYAN",
       "required":false
 
     } ,
-     "BOT_MENU_LINKS" : {
+     "BOT_MENU_LINKS ARYAN" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/ety154.jpg",
+      "value":"https://files.catbox.moe/ti9k2f.jpeg",
       "required":false
        
      },
@@ -57,29 +57,29 @@
     "description": "insert your heroku api-key (this is optionnal)",
      "required" :true
     },
-  "HEROKU_APP_NAME": {
+  "HEROKU_APP_NAME ARYAN": {
     "description": "insert your heroku APP NAME (this is optionnal)",
      "required" :true
     }  
 	  ,
-    "SESSION_ID":
+    "SESSION_ID ARYAN":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
       "value":"",
       "required":true
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME ARYAN":
     {
     
-    "desc": "Your Name",
+    "desc": "Your Name ARYAN",
     "required": false,
-    "value": " chugastan"
+    "value": " ARYAN"
   },
-    "NUMERO_OWNER":
+    "NUMERO_OWNER 255637518095":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "Your number , dont put '+255637518095' and put you area code(exemple of togo '228')",
     "required":false,
     "value": "255622286792"
   },
