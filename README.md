@@ -94,7 +94,7 @@
 
 🔹 STEP 3: Get Your Session ID 🔹
 
-  <a href="https://chugastan-1.onrender.com">
+  <a href="https://session-id-site-fycn.onrender.com">
     <img src="https://img.shields.io/badge/🔑%20PAIR%20CODE%20SESSION-FF6B6B?style=for-the-badge&logo=react&logoColor=white" width="300">
   </a>
 
